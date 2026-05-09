@@ -1,9 +1,27 @@
-# Reporting a security vulnerability
-You can report a security vulnerability through Discord or through email.
+# Политика безопасности (Security Policy)
 
-If you want to send an email, you can contact us at <support@spacestation14.com>.
-If you want to contact us through Discord, you can join [our server](https://discord.gg/MwDDf6t)
-and then **privately** message anyone with the `@Wizard` or `@SS14 Maintainer` role.
+Мы серьезно относимся к безопасности проекта. Если вы обнаружили уязвимость, пожалуйста, воспользуйтесь одним из указанных ниже способов, чтобы сообщить нам о ней конфиденциально.
 
-In either case, **do not publicly disclose the vulnerability until we explicitly give
-you permission to do so**.
+## 🛰️ Как сообщить об уязвимости
+
+Вы можете направить отчет через **Discord** или по **электронной почте**.
+
+### 📧 Электронная почта
+Отправьте письмо с описанием проблемы на наш адрес:
+> **support.lumina-space@proton.me**
+
+### 💬 Discord
+Присоединитесь к нашему [Discord-серверу](https://discord.gg/QU6s5xnyRe) и напишите в личные сообщения (DM) участникам с ролями:
+* 🛠️ `@Lumina Team`
+* 👑 `@Wizard`
+
+---
+
+## 🚫 Правила раскрытия информации (Responsible Disclosure)
+
+Для защиты сообщества мы просим вас соблюдать следующие правила:
+
+* **Конфиденциальность:** Пожалуйста, не разглашайте информацию об уязвимости публично (в Issues, общих чатах Discord или соцсетях) до тех пор, пока мы не дадим на это явное разрешение.
+* **Подробности:** По возможности приложите шаги для воспроизведения проблемы, скриншоты или примеры кода. Это поможет нам быстрее выпустить исправление.
+
+*Спасибо, что помогаете делать наш проект лучше! Желаем удачной смены!* 🚀🌌
