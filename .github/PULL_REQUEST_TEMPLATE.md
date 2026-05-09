@@ -1,36 +1,38 @@
-<!-- Guidelines: https://docs.spacestation14.io/en/getting-started/pr-guideline -->
+## **📝 Description**
+<!-- What exactly was changed in this PR? -->
 
-## About the PR
-<!-- What did you change? -->
 
-## Why / Balance
-<!-- Discuss how this would affect game balance or explain why it was changed. Link any relevant discussions or issues. -->
+## **💡 Reasoning**
+<!-- Why are these changes important? What problem do they solve? Link discussions or bug reports here. Also, describe any game balance changes if applicable. -->
 
-## Technical details
-<!-- Summary of code changes for easier review. -->
+## **✅ What's Changed**
+<!-- List specific actions taken -->
+* [x] Added a lot of fun.
 
-## Media
-<!-- Attach media if the PR makes in-game changes (clothing, items, features, etc).
-Small fixes/refactors are exempt. Media may be used in SS14 progress reports with credit. -->
+## **🧪 How to Test**
+<!-- Instructions for the QA/Tester -->
+1. Run server and client build.
+2. Go to the bridge.
+3. Pet Hamlet 52 times.
 
-## Requirements
-<!-- Confirm the following by placing an X in the brackets without spaces inside (for example: [X] ): -->
-- [ ] I have read and am following the [Pull Request and Changelog Guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
-- [ ] I have added media to this PR or it does not require an in-game showcase.
-<!-- You should understand that not following the above may get your PR closed at maintainer’s discretion -->
+## **🔗 Related Issues**
+<!-- Mention the Issue number. If there is none, delete this block -->
+Close #
 
-## Breaking changes
-<!-- List any breaking changes, including namespaces, public class/method/field changes, prototype renames; and provide instructions for fixing them.
-This will be posted in #codebase-changes. -->
+## **📌 Notes**
+<!-- Are there any specific nuances to be aware of? If none, delete this block -->
 
-**Changelog**
-<!-- Add a Changelog entry to make players aware of new features or changes that could affect gameplay.
-Make sure to read the guidelines and take this Changelog template out of the comment block in order for it to show up.
-Changelog must have a :cl: symbol, so the bot recognizes the changes and adds them to the game's changelog. -->
-<!--
-:cl:
+## **📋 Requirements**
+<!-- Confirm the following by placing an 'x' in the brackets [x] -->
+* [ ] I have added media files to this merge request, or an in-game demonstration is not required.
+* [ ] I have read and fully followed the [Contributing Guidelines](../CONTRIBUTING.md).
+<!-- Please be aware that failure to comply with these rules may result in the closure of your pull request -->
+
+## **🆑 Changelog**
+<!-- If you want players to see these changes in the game updates, list them using the template below. If not, delete this block -->
+<!-- Changelog categories: https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html#changelog-categories> -->
+:cl: <!-- Your nickname on github -->
 - add: Added fun!
-- remove: Removed fun!
-- tweak: Changed fun!
-- fix: Fixed fun!
--->
+- remove: Fun removed.
+- tweak: Changed the fun level!
+- fix: Fun is fixed!
