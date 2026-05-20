@@ -1,0 +1,9 @@
+[project]
+name = "localization-tool"
+version = "1.0.0"
+description = "Script for working with localization of Space Station 14"
+requires-python = ">=3.11"
+dependencies = [
+    "questionary",
+    "fluent.syntax",
+]
