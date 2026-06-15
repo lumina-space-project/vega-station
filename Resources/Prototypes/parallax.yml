@@ -1,0 +1,6 @@
+- type: parallax
+  id: Default
+  layers:
+  - texture:
+      !type:ImageParallaxTextureSource
+      path: /Textures/Parallaxes/purple_nebula.png
